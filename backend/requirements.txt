@@ -6,7 +6,6 @@ numpy
 scikit-learn
 xgboost
 lightgbm
-tensorflow
 vaderSentiment
 feedparser
 ta
@@ -14,6 +13,9 @@ joblib
 statsmodels
 scipy
 
-# Optional (for FinBERT — ~2GB):
+# Optional (LSTM — requires Python ≤ 3.12):
+# tensorflow
+
+# Optional (FinBERT sentiment — ~2GB):
 # transformers
 # torch
