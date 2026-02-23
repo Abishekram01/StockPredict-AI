@@ -1,0 +1,43 @@
+# ─── Python ──────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# ─── Data & Models (regenerated at runtime) ──────────
+data/models/
+data/news/
+data/stocks/
+Dataset/
+
+# ─── Virtual Environment ─────────────────────────────
+venv/
+.venv/
+env/
+
+# ─── Node / Frontend ─────────────────────────────────
+node_modules/
+frontend/dist/
+frontend/build/
+.vite/
+
+# ─── IDE / Editor ────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ─── OS ──────────────────────────────────────────────
+*.log
+*.tmp
+
+# ─── Secrets ─────────────────────────────────────────
+.env
+.env.*

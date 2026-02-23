@@ -1,0 +1,19 @@
+flask
+flask-cors
+yfinance
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+tensorflow
+vaderSentiment
+feedparser
+ta
+joblib
+statsmodels
+scipy
+
+# Optional (for FinBERT — ~2GB):
+# transformers
+# torch
